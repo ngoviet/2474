@@ -40,7 +40,7 @@
           <file leaf-file-name="CitiesController.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/controllers/user/CitiesController.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="1.7864584" vertical-offset="649" max-vertical-offset="1520">
+                <state vertical-scroll-proportion="-4.4545455" vertical-offset="649" max-vertical-offset="1520">
                   <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
                   <folding />
                 </state>
@@ -134,7 +134,7 @@
           <file leaf-file-name="header.blade.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/views/partials/header.blade.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="1.4022988" vertical-offset="2" max-vertical-offset="1056">
+                <state vertical-scroll-proportion="-33.75" vertical-offset="2" max-vertical-offset="1056">
                   <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
                   <folding />
                 </state>
@@ -343,7 +343,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5785235" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.9395973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -761,7 +761,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/partials/header.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4022988" vertical-offset="2" max-vertical-offset="1056">
+        <state vertical-scroll-proportion="-33.75" vertical-offset="2" max-vertical-offset="1056">
           <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
           <folding />
         </state>
@@ -769,7 +769,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/user/CitiesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7864584" vertical-offset="649" max-vertical-offset="1520">
+        <state vertical-scroll-proportion="-4.4545455" vertical-offset="649" max-vertical-offset="1520">
           <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
           <folding />
         </state>
