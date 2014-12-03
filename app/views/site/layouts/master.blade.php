@@ -7,7 +7,7 @@
   </head>
 
   <body>
-    @include('partials/rightbar')
+    {{--@include('partials/rightbar')--}}
     @include('partials/nav')
 
     @include('partials/sidebar')

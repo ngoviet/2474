@@ -215,6 +215,15 @@ Route::group( array('before' => 'auth'), function()
 
 	Route::get('/', array('before' => 'detectLang','uses'=>'InfoController@getIndex'));
 
+
+
+//	Route::get('test', 'TestController@index');
+	Route::get('test', function(){
+		return View::make('site.test.index');
+	});
+
+
+
     Route::get('cities', function(){
         return View::make('site.cities.index');
     });
@@ -223,21 +232,12 @@ Route::group( array('before' => 'auth'), function()
         return View::make('site.city.index');
     });
 
-	Route::get('phaodau', function(){
-		return View::make('site.phaodau.index');
-	});
+    Route::get('phaodau', function(){
+        return View::make('site.phaodau.index');
+    });
 
-//	Route::get('test', 'TestController@index');
-//	Route::get('test', function(){
-//		return View::make('test.index');
-//	});
-
-
-
-
-	Route::get('{postSlug}','InfoController@getView');
-	Route::post('{postSlug}','InfoController@postView');
-
+    Route::get('{postSlug}','InfoController@getView');
+    Route::post('{postSlug}','InfoController@postView');
 });
 
 

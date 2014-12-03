@@ -11,7 +11,7 @@ var cityApp = angular.module('cityApp', ['angularStyle','restangular','ngRoute']
 				templateUrl:'list.html'
 			})
 			.otherwise({redirectTo:'/'});
-		RestangularProvider.setBaseUrl('http://2474.dev/api/cities');
+		RestangularProvider.setBaseUrl('http://2474.dev/api');
 		RestangularProvider.setRestangularFields({
 			id: '_id.$oid'
 		});

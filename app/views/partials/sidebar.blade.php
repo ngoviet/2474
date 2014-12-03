@@ -24,6 +24,7 @@
       <ul class="nav nav-sidebar">
         <li><a href="{{ url('/') }}"><i class="fa fa-info-circle"></i><span class="text">Tin tức</span></a></li>
         <li><a href="{{ url('cities') }}"><i class="fa fa-info-circle"></i><span class="text">Thành phố</span></a></li>
+        <li><a href="{{ url('city') }}"><i class="fa fa-info-circle"></i><span class="text">Thành phố 1</span></a></li>
         <li><a href="{{ url('phaodau') }}"><i class="fa fa-truck"></i><span class="text">Phao dầu</span></a></li>
 
       </ul>
